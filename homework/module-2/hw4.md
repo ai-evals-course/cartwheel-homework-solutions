@@ -27,6 +27,10 @@ His failure taxonomy also demonstrates useful boundary work. For example, he sep
 
 Workshop was optional for HW4 and was not the basis for selecting this submission. Luca nevertheless solved an instructive observability problem: he routed the existing Langfuse OpenTelemetry trace pipeline to Workshop’s OTLP endpoint. This allowed the local Workshop view to receive the full trace, including tool calls, without changing Workshop itself.
 
+Luca shared this clarification after the review:
+
+![Luca explains how he routed the Langfuse OpenTelemetry pipeline to Workshop’s OTLP endpoint](../../assets/hw4/luca-workshop-observability-note.png)
+
 ## Karthik Balasubramanian
 
 - **Walkthrough:** [Watch the video](https://www.loom.com/share/1d4f535e1cce47db9557f6846d2fc0fd)
@@ -37,6 +41,10 @@ Workshop was optional for HW4 and was not the basis for selecting this submissio
 Karthik explores an alternative to using an LLM to organize review notes. He represents notes with TF-IDF using bigrams and sublinear term frequency, clusters failed scenarios into six groups, and later maps successful runs as close negatives. In subsequent batches, he combines new notes with the evolving structured taxonomy.
 
 This is a useful example of deterministic tooling supporting grounded-theory analysis. The vectors and clusters help retrieve and organize related observations; a human still interprets the groups, defines the failure semantics, checks boundaries, and curates the final taxonomy.
+
+Karthik shared this summary of his process after the review:
+
+![Karthik describes his TF-IDF, cosine-similarity, and failure-clustering process](../../assets/hw4/karthik-deterministic-taxonomy-note.png)
 
 ### What to study
 
