@@ -14,6 +14,7 @@ These are **post-submission learning resources**. Complete the homework before o
 | HW4 | Human trace review and building failure taxonomy | [View HW4 references](homework/module-2/hw4.md) |
 | HW5 | Building and validating an LLM judge with defined metrics | [View HW5 references](homework/module-2/hw5.md) |
 | HW6 | Continuous integration for agent evaluations | [View HW6 references](homework/module-3/hw6.md) |
+| HW7 | Post-deployment monitoring and failure-rate estimation | [View HW7 references](homework/module-3/hw7.md) |
 
 The [homework index](homework/README.md) also links each reference page to its assignment handout in the main course repository.
 
