@@ -12,3 +12,7 @@ Use these pages after submitting the corresponding homework. Assignment requirem
 
 - [HW4 assignment](https://github.com/ai-evals-course/cartwheel-homeworks/blob/main/homework/module-2/hw4.md) · [Selected references](module-2/hw4.md)
 - [HW5 assignment](https://github.com/ai-evals-course/cartwheel-homeworks/blob/main/homework/module-2/hw5.md) · [Selected references](module-2/hw5.md)
+
+## Module 3
+
+- [HW6 assignment](https://github.com/ai-evals-course/cartwheel-homeworks/blob/main/homework/module-3/hw6.md) · [Selected references](module-3/hw6.md)
